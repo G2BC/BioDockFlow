@@ -11,8 +11,8 @@ A estrutura de pastas indica as versões passadas, na raiz do projeto encontra-s
 $$
 \begin{array}{l}
 \text{BioDockFlow/} \\
-\quad \text{├── v1/ \# Documentação da primeira versão} \\
-\quad \text{├── v2/ \# Documentação da segunda versão} \\
+\quad \text{├── v1/} \\
+\quad \text{├── v2/} \\
 \quad \text{├── Documento do processo versão atual} \\
 \quad \text{├── Workflow versão atual} \\
 \quad \text{└── README.md}
