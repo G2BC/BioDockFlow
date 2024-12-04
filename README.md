@@ -9,11 +9,12 @@ Modelado para atender aplicações heterogêneas. Significa que a arquitetura da
 A estrutura de pastas indica as versões passadas, na raiz do projeto encontra-se a versão atual do processo.
 
 BioDockFlow/
-├── v1/ # documentação da primeira versão
-├── v2/ # documentação da segunda versão
+├── v1/                # Documentação da primeira versão
+├── v2/                # Documentação da segunda versão
 ├── Documento do processo versão atual
 ├── Workflow versão atual
 └── README.md
+
 
 
 ### O que é necessario para execução do processo?
@@ -32,7 +33,7 @@ BioDockFlow/
 A métrica de avaliação definida foi a Taxa de Resolução de Questões de Manutenção (TR-QM).
 
 $$
-\text{TR-QM} = \frac{(N^\circ \, \text{QM-PA Concluídas} \times 1) + (N^\circ \, \text{QM-PM Concluídas} \times 0.5) + (N^\circ \, \text{QM-PB Concluídas} \times 0.25)}{(Total \, \text{QM-PA} \times 1) + (Total \, \text{QM-PM} \times 0.5) + (Total \, \text{QM-PB} \times 0.25)}
+\text{TR-QM} = \frac{(N^\circ \ \text{QM-PA Concluídas} \times 1) + (N^\circ \ \text{QM-PM Concluídas} \times 0.5) + (N^\circ \ \text{QM-PB Concluídas} \times 0.25)}{(Total \ \text{QM-PA} \times 1) + (Total \ \text{QM-PM} \times 0.5) + (Total \ \text{QM-PB} \times 0.25)}
 $$
 
 - **QM-PA (Prioridade Alta)**: inclui todas as questões da categoria Docker, com peso atribuído de 1.
