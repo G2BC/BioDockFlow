@@ -8,16 +8,13 @@ Modelado para atender aplicações heterogêneas. Significa que a arquitetura da
 ### O que você vai encontrar aqui:
 A estrutura de pastas indica as versões passadas, na raiz do projeto encontra-se a versão atual do processo.
 
-$$
-\begin{array}{l}
-\text{BioDockFlow/} \\
-\quad \text{├── v1/} \\
-\quad \text{├── v2/} \\
-\quad \text{├── Documento do processo versão atual} \\
-\quad \text{├── Workflow versão atual} \\
-\quad \text{└── README.md}
-\end{array}
-$$
+BioDockFlow/
+├── v1/
+├── v2/
+├── Documento do processo versão atual
+├── Workflow versão atual
+└── README.md
+
 
 
 
