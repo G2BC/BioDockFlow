@@ -3,6 +3,7 @@
 ![Docker](https://img.shields.io/badge/Docker-619AFB?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white)
 
 Bem-Vindo! Este é o BioDockFlow, um processo de manutenção para aplicações web de bioinformática baseado em Docker 🚀🐋.
+
 Modelado para atender aplicações heterogêneas. Significa que a arquitetura das aplicações não é uma limitação.
 
 ### O que você vai encontrar aqui:
